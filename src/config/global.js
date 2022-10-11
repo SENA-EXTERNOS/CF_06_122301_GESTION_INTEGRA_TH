@@ -1,17 +1,47 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo:
+      'Establecer documentación con base a normatividad y procesos técnicos',
+    descripcionCurso:
+      'Definir la estructura documental, determinar la documentación, la secuencia de actividades y procesos del personal, partiendo desde la normativa y los procedimientos técnicos, es una tarea que compete a todas las empresas y por ello la importancia de estudiar cómo llevarlos a cabo y mejorar así toda la gestión del talento humano. ',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/3.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/portada/4.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-5'],
+        imagen: require('@/assets/curso/portada/5.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-6'],
+        imagen: require('@/assets/curso/portada/6.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-7'],
+        imagen: require('@/assets/curso/portada/7.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-8'],
+        imagen: require('@/assets/curso/portada/8.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-9'],
+        imagen: require('@/assets/curso/portada/9.png'),
       },
     ],
   },
@@ -32,30 +62,29 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Documentos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Procesos',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Mapa de procesos',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Diagramas',
         desarrolloContenidos: true,
       },
     ],
@@ -101,32 +130,101 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Documentos',
+      referencia:
+        'Didáctica Empresarial. (2020). <i>Sistema de gestión documental</i> (video).',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=uxLwxvnG2NY',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Técnicas de elaboración documental y control de documentos',
+      referencia:
+        'ICONTEC. Guía Técnica Colombiana GTC 185. (2009). <i>Documentación organizacional.</i>',
+      tipo: 'PDF',
+      descarga: '/downloads/GTC_185_DOCUMENTACION_ORGANIZACIONAL.pdf',
+    },
+    {
+      tema: 'Técnicas de elaboración documental y control de documentos',
+      referencia:
+        'ICONTEC. Norma ISO 9001. (2015). <i>Sistemas de gestión de la calidad. Requisitos.</i>',
+      tipo: 'PDF',
+      descarga: '/downloads/NORMA_ISO_9001_2015.pdf',
+    },
+    {
+      tema: 'Métodos de codificación',
+      referencia:
+        'Agropecuaria Santamaría. (2017). <i>Codificación de Documentos</i> (video).',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=x9IMDjuAiYQ',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Contratación',
+      significado:
+        'proceso por el cual se pacta, entre empleador y trabajador, las condiciones laborales a tener en cuenta en el ejercicio del cargo.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: '<i>Core business</i>',
+      significado:
+        'el significado de <i>Core business</i> o Core del negocio, hace referencia a aquella actividad productiva que desarrolla una empresa y le permite generar valor para poder mantenerse en el mercado.',
+    },
+    {
+      termino: 'Epp',
+      significado: 'Elemento de Protección personal.',
+    },
+    {
+      termino: 'Gestión: documental',
+      significado:
+        'consiste en la captura, almacenamiento y recuperación de documentos.',
+    },
+    {
+      termino: 'Inducción',
+      significado:
+        'capacitación inicial del nuevo trabajador a las políticas, normas y procedimientos de una organización o área específica de trabajo.',
+    },
+    {
+      termino: 'Mapa de procesos',
+      significado:
+        'diagrama que representa los procesos de una organización de manera interrelacionada.',
+    },
+    {
+      termino: 'Norma ISO',
+      significado:
+        'norma definida por la Organización Internacional de Normalización que se aplica a los productos y servicios.',
+    },
+    {
+      termino: 'Procedimiento',
+      significado:
+        'conjunto de acciones que deben realizarse todas de manera igual, para obtener los mismos resultados bajo circunstancias similares.',
+    },
+    {
+      termino: 'Proceso',
+      significado:
+        'conjunto de actividades que tienen relación entre sí o que interactúan para transformar elementos de entrada en elementos de salida.',
+    },
+    {
+      termino: 'Requisición de personal',
+      significado:
+        'documento de solicitud interna en una empresa, en el que el responsable de alguna de las áreas de la compañía solicita, de manera formal, que se cubra alguna vacante específica.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Atehortúa Hurtado, F., Bustamante Vélez, R., & Valencia de los Ríos, J. (2008). <i>Sistemas de gestión integral. Una sola gestión, un solo equipo</i>. Editorial Universidad de Antioquia.',
+    },
+    {
+      referencia:
+        'Norma ISO 9001. (2015). ICONTEC.  <i>Sistemas de gestión de la calidad.</i>',
+      link:
+        'https://colaboracion.dnp.gov.co/CDT/Normograma/NORMA%20ISO%209001%202015.pdf',
+    },
+    {
+      referencia:
+        'Universidad en Internet. (2021). UNIR. <i>Tipos de diagramas: cuáles existen y sus principales usos.</i>',
+      link:
+        'https://www.unir.net/marketing-comunicacion/revista/tipos-de-diagramas/',
     },
   ],
   creditos: {
