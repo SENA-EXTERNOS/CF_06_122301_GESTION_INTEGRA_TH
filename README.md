@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[CF_06_122301_GESTION_INTEGRA_TH](CF_06_122301_GESTION_INTEGRA_TH)
+[https://sena-externos.github.io/CF_06_122301_GESTION_INTEGRA_TH](https://sena-externos.github.io/CF_06_122301_GESTION_INTEGRA_TH)
 
 #
 
