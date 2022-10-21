@@ -17,7 +17,7 @@
           p(data-aos="fade-down").mb-0 El archivo ofrece apoyo interno en la toma de decisiones para el trabajo diario y asegura una preservación adecuada del patrimonio histórico y documental de la organización. Asimismo, tiene un importante papel en la calidad y la imagen de la organización, especialmente en las dependencias de talento humano.
         p(data-aos="fade-down").mb-0 En el área de talento humano de una compañía, se produce una gran cantidad de documentos que, si no son gestionados de manera sistemática, pondrán en riesgo los intereses de la organización y de los trabajadores.
         
-    p(data-aos="fade-down").mb-5 A continuación, se relaciona la secuencia de las etapas del proceso de talento humano en una organización
+    p(data-aos="fade-down").mb-5 A continuación, se destacan los tipos de documentos y de registro: 
 
     .row.justify-content-center.align-items-start.mb-5 
       .col-lg-8
@@ -39,8 +39,7 @@
 
               p Si la empresa ya ha generado digitalización de las hojas de vida de los trabajadores, entonces este tipo de #[b registro digital] deberá conservarse dentro de un sistema de clasificación de fácil acceso y protegido contra la fuga de información o la pérdida de la misma.
 
-              p Para el caso de los #[b registros fílmicos] se pueden encontrar, en el área de talento humano, las grabaciones previamente autorizadas de procesos como las actividades de bienestar, capacitación, entrevistas, procesos disciplinarios, 
-              p entre otros.
+              p Para el caso de los #[b registros fílmicos] se pueden encontrar, en el área de talento humano, las grabaciones previamente autorizadas de procesos como las actividades de bienestar, capacitación, entrevistas, procesos disciplinarios, entre otros.
       .col-lg-4
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img2.png', alt='')           
 
@@ -109,7 +108,7 @@
                     td Procedimiento de evaluación de desempeño.
 
     .row.justify-content-start.align-items-center.mb-5           
-      .col-lg-6
+      .col-lg-7
         .bgp.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Técnicas de elaboración documental y control de documentos 
     .bg3
@@ -152,7 +151,7 @@
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
                     h4 Técnicas de elaboración documental y control de documentos
-                    p.mb-0 Para poder codificar la información, es fundamental diferenciar entre alfabética, numérica, o alfanumérica; de esta manera se obtendrá un archivo documental organizado, sistemático y de fácil consulta para el cumplimiento de la gestión del talento humano en una organización. 
+                    p.mb-0 Para profundizar un poco en el tema, lo invitamos a explorar la Guía Técnica Colombiana GTC 185, disponible en el material complementario #[b ‘Técnicas de elaboración documental y control de documentos’].  
                   .col-sm-auto
                     a.boton.color-acento-botones(:href="obtenerLink('/downloads/NORMA_ISO_9001_2015.pdf')" target="_blank")
                       span.ts Descargar
@@ -163,7 +162,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/img8.jpg')})`}"
             )
             .bloque-texto-g__texto.p-4
-              p.mb-0 Junto al proceso de elaboración documental se encuentra el control de dichos documentos, el cual permite que, de manera frecuente, se revisen y actualicen las versiones de los formatos, registros, procedimientos, instructivos etc., que existan. De esta manera, se garantiza que los documentos no se vuelvan inexactos u obsoletos y se trabaje sobre versiones actualizadas acordes con la realidad de las necesidades del área que aplica dicho control. Lo invitamos a revisar el material complementario 'Técnicas de elaboración documental y control de documentos' conocer a profundidad la norma ISO 9001: 2015, donde se establece el procedimiento para el control de documentos.
+              p.mb-0 Junto al proceso de elaboración documental se encuentra el control de dichos documentos, el cual permite que, de manera frecuente, se revisen y actualicen las versiones de los formatos, registros, procedimientos, instructivos etc., que existan. De esta manera, se garantiza que los documentos no se vuelvan inexactos u obsoletos y se trabaje sobre versiones actualizadas acordes con la realidad de las necesidades del área que aplica dicho control. Lo invitamos a revisar el material complementario #[b 'Técnicas de elaboración documental y control de documentos'] conocer a profundidad la norma ISO 9001: 2015, donde se establece el procedimiento para el control de documentos.
 
     .row.justify-content-start.align-items-center.mb-5           
       .col-lg-3

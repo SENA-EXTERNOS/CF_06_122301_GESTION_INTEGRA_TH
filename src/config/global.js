@@ -167,10 +167,10 @@ export default {
     {
       termino: '<i>Core business</i>',
       significado:
-        'el significado de <i>Core business</i> o Core del negocio, hace referencia a aquella actividad productiva que desarrolla una empresa y le permite generar valor para poder mantenerse en el mercado.',
+        'el significado de <i>Core business</i> o <i>Core</i> del negocio, hace referencia a aquella actividad productiva que desarrolla una empresa y le permite generar valor para poder mantenerse en el mercado.',
     },
     {
-      termino: 'Epp',
+      termino: 'EPP',
       significado: 'Elemento de Protección personal.',
     },
     {

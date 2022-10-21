@@ -30,7 +30,6 @@
 
               .col-lg-8
                 .bloque-texto-a__texto.p-4
-                  p El mapa de procesos no es igual en todas las empresas, pero sí se deben tener en cuenta los siguientes criterios:
                   ul.lista-ul
 
                     li 

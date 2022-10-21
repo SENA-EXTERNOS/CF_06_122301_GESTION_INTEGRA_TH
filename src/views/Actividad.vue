@@ -11,7 +11,10 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Falso / verdadero
-        p.mb-4 Este recorrido introductorio sobre la administración, proporciona conceptos claves de aplicación para la práctica empresarial y organizacional; por esta razón es importante realizar un repaso sobre los principales temas abordados, con la intención de afianzar y reforzar al aprendiz.
+        p A continuación encontrará una serie de afirmaciones que permiten evaluar el nivel de apropiación de conceptos en relación al componente previamente revisado.  
+
+        p.mb-4 Por favor, lea atentamente las afirmaciones y determine si el enunciado es verdadero o falso.
+
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

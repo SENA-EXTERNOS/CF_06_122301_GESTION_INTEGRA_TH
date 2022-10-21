@@ -34,7 +34,7 @@
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img25.svg', alt='') 
       .row.justify-content-center.align-items-start(titulo="Titulo item 1")
         .col-lg-4.col-md-10.col-sm-11.media
-          h5.mb-3 Diagrama sinóptico. 
+          h5.mb-3 Diagrama sinóptico 
           p Este diagrama expresa las distintas fases y secuencias que deben realizarse de forma cronológica, para producir un determinado objeto. Se compone de líneas verticales y horizontales que expresan el flujo del proceso y la entrada de materiales o componentes. Es un diagrama muy habitual para expresar los proyectos del ámbito de la ingeniería industrial. 
         .col-lg-8.col-md-10.col-sm-11.media
           .bgt.p-4
@@ -45,8 +45,8 @@
         .row.justify-content-start.align-items-center.mb-4
           .col-lg-8
             .bgp.p-1(data-aos="fade-right")
-              h4(data-aos="fade-down").mb-0 Estructura del mapa de procesos
-
+              h4(data-aos="fade-down").mb-0 Caracterización
+        p(data-aos="fade-down") Los diagramas tienen unas características específicas, las cuales son:
         ol.lista-ol--cuadro.lista-ol--separador
           li 
             .lista-ol--cuadro__vineta
@@ -79,7 +79,7 @@
     .row.justify-content-center.align-items-center.mb-3        
       .col-lg-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 2
+          h5 Figura 3.
           span Tabla de convenciones para la elaboración de diagramas 
     .row.justify-content-center.align-items-center.mb-5        
       .col-lg-10.bg4.p-5
@@ -87,46 +87,46 @@
           table             
             thead
               tr
-                th SIMBOLO
-                th SIGNIFICADO
+                th Símbolo
+                th.bgt1 Significado
                 
             tbody.bgw
               tr
                 td
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img28.svg', alt='')                        
-                td <b>Operación:</b><br><br>Se usa para describir cualquier actividad. En el interior del rectángulo se escribe una breve descripción de la actividad. 
+                td <b>Operación</b><br><br>Se usa para describir cualquier actividad. En el interior del rectángulo se escribe una breve descripción de la actividad. 
               tr
                 td
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img29.svg', alt='')                        
-                td <b>Límites del proceso:</b><br><br> Indica el inicio y el final de un proceso. En el interior aparece la palabra 'inicio' o 'fin'.
+                td <b>Límites del proceso</b><br><br> Indica el inicio y el final de un proceso. En el interior aparece la palabra 'inicio' o 'fin'.
               tr
                 td
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img30.svg', alt='')                        
-                td <b>Punto de decisión:</b><br><br> Denota que en ese punto se toma una decisión. Las salidas del diamante, son siempre dos y del tipo SI/NO.
+                td <b>Punto de decisión</b><br><br> Denota que en ese punto se toma una decisión. Las salidas del diamante, son siempre dos y del tipo SI/NO.
               tr
                 td
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img31.svg', alt='')                        
-                td <b>Movimiento:</b><br><br> Muestra el movimiento de una salida entre distintos puntos de la organización.
+                td <b>Movimiento</b><br><br> Muestra el movimiento de una salida entre distintos puntos de la organización.
               tr
                 td
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img32.svg', alt='')                        
-                td <b>Conector:</b><br><br> Señala que la salida de ese proceso puede ser la entrada de otro (la letra indica el proceso de entrada).
+                td <b>Conector</b><br><br> Señala que la salida de ese proceso puede ser la entrada de otro (la letra indica el proceso de entrada).
               tr
                 td
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img33.svg', alt='')                        
-                td <b>Dirección del flujo:</b><br><br> Denota la dirección y el orden de los pasos del proceso.
+                td <b>Dirección del flujo</b><br><br> Denota la dirección y el orden de los pasos del proceso.
               tr
                 td
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img34.svg', alt='')                        
-                td <b>Documento:</b><br><br> Documento/registro
+                td <b>Documento</b><br><br> Documento/registro
               tr
                 td
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img35.svg', alt='')                        
-                td <b>Listados:</b><br><br> Listados/notas de trabajo acumulado, información referente a la actividad.
+                td <b>Listados</b><br><br> Listados/notas de trabajo acumulado, información referente a la actividad.
               tr
                 td
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img36.svg', alt='')                        
-                td <b>Base de datos:</b><br><br> Punto de archivo donde se retiene temporalmente la información, en espera de que se cumplan otras condiciones para continuar el proceso.
+                td <b>Base de datos</b><br><br> Punto de archivo donde se retiene temporalmente la información, en espera de que se cumplan otras condiciones para continuar el proceso. Puede llevar asociada una tarea de administración de almacenamiento.
     
     p(data-aos="fade-down").mb-5 Los pasos a tener en cuenta para la diagramación de procesos son los siguientes:
     .row.justify-content-center.align-items-center.mb-5           
@@ -135,19 +135,19 @@
           li 
             .lista-ol--cuadro__vineta
               span.ts 1
-            p.mb-0 #[b Determinar el proceso a graficar:] se trata de identificar el proceso que se desea graficar y para esto se debe 
+            p.mb-0 #[b Determinar el proceso a graficar:] se trata de identificar el proceso que se desea graficar y para esto se debe conocer el proceso.
           li 
             .lista-ol--cuadro__vineta
               span.ts 2
-            p.mb-0Determinar #[b el inicio y el fin del proceso:] es clave para identificar el punto de inicio del proceso y el producto final.
+            p.mb-0Determinar #[b  Determinar el inicio y el fin del proceso:] es clave para identificar el punto de inicio del proceso y el producto final.
           li 
             .lista-ol--cuadro__vineta
               span.ts 3
-            p.mb-0Determinar #[b actividades:] implica identificar las actividades que forman parte del proceso, en su respectivo orden.
+            p.mb-0Determinar #[b Determinar actividades:]  implica identificar las actividades que forman parte del proceso, en su respectivo orden.
           li 
             .lista-ol--cuadro__vineta
               span.ts 4
-            p.mb-0Graficar #[b los pasos:] de acuerdo con la información recolectada, se grafica teniendo en cuenta las convenciones geométricas a utilizar. 
+            p.mb-0Graficar #[b Graficar los pasos:] de acuerdo con la información recolectada, se grafica teniendo en cuenta las convenciones geométricas a utilizar. 
 
     .row.justify-content-center.align-items-center        
       .col-lg-8
