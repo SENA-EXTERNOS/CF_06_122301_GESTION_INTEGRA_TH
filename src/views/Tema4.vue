@@ -75,7 +75,7 @@
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-8    
           .cajon.color-primario.p-4.mb-3(data-aos="flip-down")
-            p(data-aos="fade-down").mb-0 Adicional a estas características, también es necesario reconocer las convenciones geométricas que se deben (o pueden) utilizar para elaborar un diagrama de flujo 
+            p(data-aos="fade-down").mb-0 Adicional a estas características, también es necesario reconocer las convenciones geométricas que se deben (o pueden) utilizar para elaborar un diagrama de flujo. 
     .row.justify-content-center.align-items-center.mb-3        
       .col-lg-10
         .titulo-sexto.color-acento-contenido
