@@ -137,21 +137,21 @@ export default {
       link: 'https://www.youtube.com/watch?v=uxLwxvnG2NY',
     },
     {
-      tema: 'Técnicas de elaboración documental y control de documentos',
+      tema: 'Documentos',
       referencia:
         'ICONTEC. Guía Técnica Colombiana GTC 185. (2009). <i>Documentación organizacional.</i>',
-      tipo: 'PDF',
+      tipo: 'Cartilla institucional',
       descarga: '/downloads/GTC_185_DOCUMENTACION_ORGANIZACIONAL.pdf',
     },
     {
-      tema: 'Técnicas de elaboración documental y control de documentos',
+      tema: 'Documentos',
       referencia:
         'ICONTEC. Norma ISO 9001. (2015). <i>Sistemas de gestión de la calidad. Requisitos.</i>',
-      tipo: 'PDF',
+      tipo: 'Cartilla institucional',
       descarga: '/downloads/NORMA_ISO_9001_2015.pdf',
     },
     {
-      tema: 'Métodos de codificación',
+      tema: 'Documentos',
       referencia:
         'Agropecuaria Santamaría. (2017). <i>Codificación de Documentos</i> (video).',
       tipo: 'Video',
@@ -171,7 +171,7 @@ export default {
     },
     {
       termino: 'EPP',
-      significado: 'Elemento de Protección personal.',
+      significado: 'Elemento de Protección Personal.',
     },
     {
       termino: 'Gestión: documental',

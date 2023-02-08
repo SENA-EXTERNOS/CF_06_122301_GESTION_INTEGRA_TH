@@ -12,14 +12,15 @@
       .col-lg-10
         .cajon.color-acento-contenido.p-4.mb-5(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 Normalmente, las áreas de talento humano son un proceso de soporte porque apoyan al proceso estratégico y al proceso operativo en el desarrollo del #[i Core business], descrito como una competencia particular, y que se relaciona con la actividad productiva que realiza una empresa y le permite producir valor para poder perdurar en el mercado.
-    p(data-aos="fade-down").mb-5 Dentro del área de talento humano, existen subprocesos a diferenciar y que son importantes porque cada uno de ellos genera documentación diferente. En este tema se identificarán cada uno de los subprocesos y la documentación que se genera con cada uno de ellos. 
+    p(data-aos="fade-down").mb-5 Dentro del área de talento humano, existen subprocesos a diferenciar y que son importantes porque cada uno de ellos genera documentación diferente. En este tema se identificarán estos subprocesos y su respectiva documentación. 
 
     p(data-aos="fade-down").mb-5 A continuación, se relacionan ejemplos de documentación que surgen dentro de cada subproceso de la gestión del talento humano: 
     .row.justify-content-center.align-items-center.mb-3        
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 1
-          span Gestión de talento humano    
+          br
+          span.fst-italic Gestión de talento humano    
     .row.justify-content-center.align-items-center.mb-5        
       .col-lg-10.bg4.p-5
         LineaTiempoB.color-primario(:datos="datosLineaTiempoB")
@@ -31,7 +32,7 @@
 
     p(data-aos="fade-down") Cada etapa del proceso de talento humano tiene una secuencia lógica, identificar la secuencia es importante para obtener una comprensión general de la gestión del talento humano. 
 
-    p(data-aos="fade-down").mb-5 A continuación, se relaciona la secuencia de las etapas del proceso de talento humano en una organización
+    p(data-aos="fade-down").mb-5 A continuación, se relaciona la secuencia de las etapas del proceso de talento humano en una organización: 
     .bg3
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-10
@@ -120,7 +121,7 @@ export default {
         icono: require('@/assets/curso/temas/3.svg'),
       },
       {
-        titulo: 'Nomina',
+        titulo: 'Nómina',
         texto:
           'Evidencias de pago mensual. Evidencia de pago de prestaciones sociales.',
         icono: require('@/assets/curso/temas/4.svg'),

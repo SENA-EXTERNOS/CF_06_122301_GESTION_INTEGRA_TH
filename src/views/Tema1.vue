@@ -33,7 +33,7 @@
               p Dentro de los #[b documentos de tipo procedimental] se encuentran aquellos registros o formatos que atienden al cumplimiento de un procedimiento establecido en el área, como: selección, contratación, nómina, capacitación, etc. Entre los prototipos de documentos de ejemplo procedimental se encuentran: manual de perfiles y funciones, evidencias del proceso de selección, evidencias del proceso de inducción y entrenamiento del nuevo trabajador y registros de capacitación. 
           .row.justify-content-center.align-items-center(titulo="Tipos de registros")
             .col-lg-10
-              p Para el caso del área de talento humano, se pueden encontrar varias clases de registros de la información, los cuáles pueden ser físicos, digitales o fílmicos; identificarlos será un punto importante para determinar el sistema de clasificación a utilizar.
+              p Para el caso del área de talento humano, se pueden encontrar varias clases de registros de la información, los cuales pueden ser físicos, digitales o fílmicos; identificarlos será un punto importante para determinar el sistema de clasificación a utilizar.
 
               p Dentro de los #[b registros físicos] se encuentran los documentos físicos que aporta el trabajador para el inicio del contrato, la documentación legal de contratación y todos los soportes que se vayan generando a lo largo de la historia laboral del trabajador en la organización.
 
@@ -53,7 +53,7 @@
       .row.justify-content-center.align-items-start(titulo="Titulo item 1")
         .col-lg-4.col-md-10.col-sm-11.media
           p Cada organización genera sus propios procedimientos para lograr, de manera sistemática, desarrollar un proceso. Por lo general, están enmarcados dentro de alguna norma de certificación, aunque no necesariamente. Para el caso del área de talento humano, existen subprocesos y cada uno de ellos tiene su propia forma de realizar las tareas para alcanzar el cumplimiento del objetivo del proceso. 
-        .col-lg-8.col-md-10.col-sm-11.media
+        .col-lg-7.col-md-10.col-sm-11.media
           .bgt.p-4
             .tabla-a.tpurple(data-aos='fade-left')
               table             
@@ -74,14 +74,14 @@
       .row.justify-content-center.align-items-start(titulo="Titulo item 1")
         .col-lg-4.col-md-10.col-sm-11.media
           p Ejemplo: el subproceso de selección de personal tiene normalmente, como objetivo, la consecución de personal idóneo de acuerdo con un perfil de cargo previamente establecido, que cumpla con los requisitos de educación, formación, experiencia y habilidades para ocupar las diferentes posiciones en una compañía. En este caso, existe un documento que explica la forma o el método para llevarlo a cabo, en donde se describe el objetivo, alcance, y las tareas sistemáticas que se llevan a cabo para cumplir con la meta de colocación de personal idóneo, de tal forma que se garantice que el proceso se ejecute de la misma manera, a pesar de que existan varios profesionales realizándolo. 
-        .col-lg-8.col-md-10.col-sm-11.media
+        .col-lg-7.col-md-10.col-sm-11.media
           .bgt.p-4
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img3.png', alt='')
 
       .row.justify-content-center.align-items-start(titulo="Titulo item 1")
         .col-lg-4.col-md-10.col-sm-11.media
-          p A continuación, se enuncian algunos ejemplos de procesos y de los procedimientos de talento humano, en una organización.
-        .col-lg-8.col-md-10.col-sm-11.media
+          p A continuación, se enuncian algunos ejemplos de procesos y de los procedimientos de talento humano, en una organización:
+        .col-lg-7.col-md-10.col-sm-11.media
           .bgt.p-4
             .tabla-a.tpurple(data-aos='fade-left')
               table             
@@ -119,8 +119,7 @@
           .cajon.color-primario.p-4.mb-3(data-aos="flip-down")
             p(data-aos="fade-down").mb-0 En el área de talento humano, se pueden elaborar varios tipos de documentos como: cartas, memorandos, comunicados, circulares, actas, informes, certificaciones, sobres, mensajes electrónicos, tarjetas, entre otros. Para la elaboración de documentos, especialmente de tipo legal, es importante tener en cuenta los aspectos que deben contener estos documentos. 
 
-      p(data-aos="fade-down").mb-5 Para la correcta elaboración documental se recomienda seguir los pasos ilustrados a continuación
-
+      p(data-aos="fade-down").mb-5 Para la correcta elaboración documental, se recomienda seguir los pasos ilustrados a continuación:
       .row.justify-content-center.align-items-center.mb-5           
         .col-lg-10
           ImagenInfografica.color-acento-botones.mb-5(data-aos="zoom-in")

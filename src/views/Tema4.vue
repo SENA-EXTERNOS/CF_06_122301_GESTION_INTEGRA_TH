@@ -15,28 +15,28 @@
         .col-lg-4.col-md-10.col-sm-11.media
           h5.mb-3 Diagrama de flujo
           p Es la representación gráfica de un proceso. Se utiliza para expresar un trabajo o actividad, paso a paso. Se incluyen varias figuras geométricas con un significado concreto para su elaboración: círculo (inicio, fin o conector); rectángulo (proceso); rombo (decisión); romboide (entrada, salida); flecha (flujo de ejecución). 
-        .col-lg-8.col-md-10.col-sm-11.media
+        .col-lg-7.col-md-10.col-sm-11.media
           .bgt.p-4
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img23.svg', alt='')  
       .row.justify-content-center.align-items-start(titulo="Titulo item 1")
         .col-lg-4.col-md-10.col-sm-11.media
           h5.mb-3 Diagrama conceptual
           p Este tipo de diagrama se utiliza para resumir conceptos y simplificar el estudio de un tema. Se elabora seleccionando las ideas principales y relacionando de forma jerárquica, los conceptos que están relacionados. 
-        .col-lg-8.col-md-10.col-sm-11.media
+        .col-lg-7.col-md-10.col-sm-11.media
           .bgt.p-4
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img24.svg', alt='') 
       .row.justify-content-center.align-items-start(titulo="Titulo item 1")
         .col-lg-4.col-md-10.col-sm-11.media
           h5.mb-3 Diagrama de árbol
           p Permite estructurar las ideas de manera jerárquica e ir descendiendo de nivel en cada escalón del diagrama, a medida que se detalla el tema. Su estructura, partiendo de un elemento ‘raíz’ y mostrando las conexiones o ‘ramas’, permite identificar las tareas necesarias para llegar a una solución. 
-        .col-lg-8.col-md-10.col-sm-11.media
+        .col-lg-7.col-md-10.col-sm-11.media
           .bgt.p-4
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img25.svg', alt='') 
       .row.justify-content-center.align-items-start(titulo="Titulo item 1")
         .col-lg-4.col-md-10.col-sm-11.media
           h5.mb-3 Diagrama sinóptico 
           p Este diagrama expresa las distintas fases y secuencias que deben realizarse de forma cronológica, para producir un determinado objeto. Se compone de líneas verticales y horizontales que expresan el flujo del proceso y la entrada de materiales o componentes. Es un diagrama muy habitual para expresar los proyectos del ámbito de la ingeniería industrial. 
-        .col-lg-8.col-md-10.col-sm-11.media
+        .col-lg-7.col-md-10.col-sm-11.media
           .bgt.p-4
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img26.svg', alt='') 
 
@@ -79,8 +79,9 @@
     .row.justify-content-center.align-items-center.mb-3        
       .col-lg-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 3.
-          span Tabla de convenciones para la elaboración de diagramas 
+          h5 Figura 3
+          br
+          span.fst-italic Tabla de convenciones para la elaboración de diagramas 
     .row.justify-content-center.align-items-center.mb-5        
       .col-lg-10.bg4.p-5
         .tabla-a.tpurple(data-aos='fade-left')
@@ -139,15 +140,15 @@
           li 
             .lista-ol--cuadro__vineta
               span.ts 2
-            p.mb-0Determinar #[b  Determinar el inicio y el fin del proceso:] es clave para identificar el punto de inicio del proceso y el producto final.
+            p.mb-0 #[b  Determinar el inicio y el fin del proceso:] es clave para identificar el punto de inicio del proceso y el producto final.
           li 
             .lista-ol--cuadro__vineta
               span.ts 3
-            p.mb-0Determinar #[b Determinar actividades:]  implica identificar las actividades que forman parte del proceso, en su respectivo orden.
+            p.mb-0 #[b Determinar actividades:]  implica identificar las actividades que forman parte del proceso, en su respectivo orden.
           li 
             .lista-ol--cuadro__vineta
               span.ts 4
-            p.mb-0Graficar #[b Graficar los pasos:] de acuerdo con la información recolectada, se grafica teniendo en cuenta las convenciones geométricas a utilizar. 
+            p.mb-0 #[b Graficar los pasos:] de acuerdo con la información recolectada, se grafica teniendo en cuenta las convenciones geométricas a utilizar. 
 
     .row.justify-content-center.align-items-center        
       .col-lg-8
