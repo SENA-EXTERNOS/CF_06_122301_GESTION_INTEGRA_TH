@@ -171,7 +171,7 @@ export default {
     },
     {
       termino: 'EPP',
-      significado: 'Elemento de Protección Personal.',
+      significado: ' Elemento de Protección Personal.',
     },
     {
       termino: 'Gestión: documental',
