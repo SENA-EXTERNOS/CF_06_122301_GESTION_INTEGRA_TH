@@ -217,8 +217,6 @@ export default {
     {
       referencia:
         'Norma ISO 9001. (2015). ICONTEC.  <i>Sistemas de gestión de la calidad.</i>',
-      link:
-        'https://colaboracion.dnp.gov.co/CDT/Normograma/NORMA%20ISO%209001%202015.pdf',
     },
     {
       referencia:
