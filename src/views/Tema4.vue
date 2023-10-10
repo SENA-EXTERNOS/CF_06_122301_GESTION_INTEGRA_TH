@@ -84,7 +84,7 @@
           span.fst-italic Tabla de convenciones para la elaboración de diagramas 
     .row.justify-content-center.align-items-center.mb-5        
       .col-lg-10.bg4.p-5
-        .tabla-a.tpurple(data-aos='fade-left')
+        .tabla1-a.tpurple(data-aos='fade-left')
           table             
             thead
               tr

@@ -174,7 +174,7 @@ export default {
       significado: ' Elemento de Protección Personal.',
     },
     {
-      termino: 'Gestión: documental',
+      termino: 'Gestión documental',
       significado:
         'consiste en la captura, almacenamiento y recuperación de documentos.',
     },

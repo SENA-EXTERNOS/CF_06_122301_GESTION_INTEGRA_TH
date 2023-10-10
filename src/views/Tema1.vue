@@ -51,10 +51,10 @@
     p(data-aos="fade-down").mb-5 Para continuar con el desarrollo del componente es preciso tener claridad sobre los conceptos y significado de 'proceso' y 'procedimiento' la cual se hace a partir del siguiente cuadro comparativo:
     SlyderA(tipo="b")(data-aos="fade-left").bg2.p-4.mb-5
       .row.justify-content-center.align-items-start(titulo="Titulo item 1")
-        .col-lg-4.col-md-10.col-sm-11.media
+        .col-lg-3.col-md-11.col-sm-11.media
           p Cada organización genera sus propios procedimientos para lograr, de manera sistemática, desarrollar un proceso. Por lo general, están enmarcados dentro de alguna norma de certificación, aunque no necesariamente. Para el caso del área de talento humano, existen subprocesos y cada uno de ellos tiene su propia forma de realizar las tareas para alcanzar el cumplimiento del objetivo del proceso. 
-        .col-lg-7.col-md-10.col-sm-11.media
-          .bgt.p-4
+        .col-lg-8.col-md-11.col-sm-12.media
+          .bgt.p-3
             .tabla-a.tpurple(data-aos='fade-left')
               table             
                 thead
@@ -79,10 +79,10 @@
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img3.png', alt='')
 
       .row.justify-content-center.align-items-start(titulo="Titulo item 1")
-        .col-lg-4.col-md-10.col-sm-11.media
+        .col-lg-3.col-md-10.col-sm-11.media
           p A continuación, se enuncian algunos ejemplos de procesos y de los procedimientos de talento humano, en una organización:
-        .col-lg-7.col-md-10.col-sm-11.media
-          .bgt.p-4
+        .col-lg-8.col-md-10.col-sm-11.media
+          .bgt.p-2
             .tabla-a.tpurple(data-aos='fade-left')
               table             
                 thead
