@@ -15,8 +15,7 @@
             br
             span.fst-italic Mapa de procesos
           img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/img19.svg', alt='')
-          figcaption.fw.mb-5 Nota: Mapa de procesos, de Luis Amaya (sin dato del año de publicación). <br>Tomado de 
-              a(href="https://sites.google.com/site/luisamayateacher/mapa-de-procesos---introduccion" target="_blank") https://sites.google.com/site/luisamayateacher/mapa-de-procesos---introduccion
+          figcaption.fw.mb-5 Nota: Mapa de procesos, de Luis Amaya (sin dato del año de publicación).
               
       .row.justify-content-start.align-items-center.mb-5           
         .col-lg-4
